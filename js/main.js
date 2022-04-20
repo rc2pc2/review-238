@@ -1,14 +1,14 @@
 /*
  * Dati tre array contenenti
- * Creare un carosello come nell'foto alegata e
+ * Creare un carosello come nell'foto allegata e
  * al click dell'utente sulle frecce l'immagine attiva diventa
- * visibile in formato grande a sinistra e nel suo angolo in basso a destra
- * dovranno essere aggiunti il titolo e il testo.
+ * visibile in formato grande e allo stesso tempo nelle miniature l'immagine attiva dovrà apparire in evidenza rispetto alle altre.
 */
 
-/* Hanno bisogno del:
+/* Hanno bisogno di:
  * addEventListener
- * Manipolazione del DOM ---> getElementsByClassName querySelector classList remove add
+ * Manipolazione del DOM --->
+ * getElementsByClassName || querySelector && classList con funzioni remove + add
  * ARRAY
  */
 
