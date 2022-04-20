@@ -36,3 +36,5 @@ Non lasciamoci spaventare dalla complessità apparente dell'esercizio, ma analiz
 3. Al momento giusto (ihihhi starà a voi capire quale) rispondete a questa domanda: "Quanti cicli servono?"
 
 Buon lavoro e buon divertimento! :slightly_smiling_face:
+
+![Carosello mono-array](./carosello-mono-array.png "Mono-array")
