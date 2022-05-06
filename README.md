@@ -1,5 +1,7 @@
 # review-238
 
+Vedi notion
+
 @here
 Ciao ragazzi,
 Esercizio di oggi: Carosello Multi Array
@@ -7,7 +9,7 @@ nome repo: js-array-carousel
 
 **Consegna:**
 
-Dato un arraw contenente una lista di cinque immagini, creare un carosello come nella foto allegata. 
+Dato un array contenente una lista di cinque immagini, creare un carosello come nella foto allegata. 
 
 **MILESTONE 1**
 
